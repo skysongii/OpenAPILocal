@@ -1,7 +1,5 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
-    // include_once '../inc_head.php';
-    // echo 'zz';
 ?>
 <!DOCTYPE html>
 <html lang="en">
